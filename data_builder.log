@@ -1,0 +1,57 @@
+[2023-01-18 18:11:28,766 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart/vlsp.tokenized.en-vi', destdir='exp_mbart/vlsp.segmented.en-vi/', max_sents=1, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart/vlsp.segmented.en-vi/tmp')
+[2023-01-18 18:13:27,093 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart/vlsp.tokenized.en-vi', destdir='exp_mbart/vlsp.segmented.en-vi/', max_sents=1, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart/vlsp.segmented.en-vi/tmp')
+[2023-01-18 18:15:27,850 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='/media/dungdx4/sda1_mnt/PycharmProjects/g-transformer/exp_mbart/vlsp.tokenized.en-vi', destdir='/media/dungdx4/sda1_mnt/PycharmProjects/g-transformer/exp_mbart/vlsp.segmented.en-vi/', max_sents=1, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='/media/dungdx4/sda1_mnt/PycharmProjects/g-transformer/exp_mbart/vlsp.segmented.en-vi/tmp')
+[2023-01-18 18:18:05,289 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart/vlsp.tokenized.en-vi', destdir='exp_mbart/vlsp.segmented.en-vi/', max_sents=1, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart/vlsp.segmented.en-vi/tmp')
+[2023-01-18 18:18:33,070 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='/media/dungdx4/sda1_mnt/PycharmProjects/g-transformer/exp_mbart/vlsp.tokenized.en-vi', destdir='/media/dungdx4/sda1_mnt/PycharmProjects/g-transformer/exp_mbart/vlsp.segmented.en-vi/', max_sents=1, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='/media/dungdx4/sda1_mnt/PycharmProjects/g-transformer/exp_mbart/vlsp.segmented.en-vi/tmp')
+[2023-01-18 18:26:47,541 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart/vlsp.tokenized.en-vi', destdir='exp_mbart/vlsp.segmented.en-vi/', max_sents=1, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart/vlsp.segmented.en-vi/tmp')
+[2023-01-18 18:35:12,143 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart/vlsp.tokenized.en-vi', destdir='exp_mbart/vlsp.segmented.en-vi/', max_sents=1, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart/vlsp.segmented.en-vi/tmp')
+[2023-01-18 18:35:12,294 INFO] Processed 1221 documents of test with a max_len of 512.
+[2023-01-18 18:35:12,302 INFO] Saved 1220 lines into exp_mbart/vlsp.segmented.en-vi/test.en
+[2023-01-18 18:35:12,309 INFO] Saved 1220 lines into exp_mbart/vlsp.segmented.en-vi/test.vi
+[2023-01-18 18:35:12,339 INFO] Processed 1008 documents of valid with a max_len of 512.
+[2023-01-18 18:35:12,342 INFO] Saved 1007 lines into exp_mbart/vlsp.segmented.en-vi/valid.en
+[2023-01-18 18:35:12,347 INFO] Saved 1007 lines into exp_mbart/vlsp.segmented.en-vi/valid.vi
+[2023-02-01 08:25:16,125 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart_doc/iwslt.tokenized.en-vi', destdir='exp_mbart_doc/iwslt.segmented.en-vi/', max_sents=1000, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart_doc/iwslt.segmented.en-vi/tmp')
+[2023-02-01 08:28:00,942 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart_doc/iwslt.tokenized.en-vi', destdir='exp_mbart_doc/iwslt.segmented.en-vi/', max_sents=1000, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart_doc/iwslt.segmented.en-vi/tmp')
+[2023-02-01 08:28:00,942 INFO] Processed 1 documents of test with a max_len of 512.
+[2023-02-01 08:28:00,942 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/test.en
+[2023-02-01 08:28:00,942 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/test.vi
+[2023-02-01 08:28:00,942 INFO] Processed 1 documents of valid with a max_len of 512.
+[2023-02-01 08:28:00,942 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/valid.en
+[2023-02-01 08:28:00,942 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/valid.vi
+[2023-02-01 08:28:00,943 INFO] Processed 1 documents of train with a max_len of 512.
+[2023-02-01 08:28:00,943 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/train.en
+[2023-02-01 08:28:00,943 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/train.vi
+[2023-02-01 08:31:28,187 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart_doc/iwslt.tokenized.en-vi', destdir='exp_mbart_doc/iwslt.segmented.en-vi/', max_sents=1000, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart_doc/iwslt.segmented.en-vi/tmp')
+[2023-02-01 08:31:28,188 INFO] Processed 1 documents of test with a max_len of 512.
+[2023-02-01 08:31:28,188 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/test.en
+[2023-02-01 08:31:28,188 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/test.vi
+[2023-02-01 08:31:28,188 INFO] Processed 1 documents of valid with a max_len of 512.
+[2023-02-01 08:31:28,188 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/valid.en
+[2023-02-01 08:31:28,188 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/valid.vi
+[2023-02-01 08:31:28,188 INFO] Processed 1 documents of train with a max_len of 512.
+[2023-02-01 08:31:28,188 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/train.en
+[2023-02-01 08:31:28,188 INFO] Saved 0 lines into exp_mbart_doc/iwslt.segmented.en-vi/train.vi
+[2023-02-01 08:32:54,325 INFO] Building segmented data: Namespace(corpuses='test,valid,train', datadir='exp_mbart_doc/iwslt.tokenized.en-vi', destdir='exp_mbart_doc/iwslt.segmented.en-vi/', max_sents=1000, max_tokens=512, min_train_doclen=-1, no_special_tok=False, source_lang='en', target_lang='vi', tempdir='exp_mbart_doc/iwslt.segmented.en-vi/tmp')
+[2023-02-01 08:32:54,343 INFO] Processed 18 documents of test with a max_len of 512.
+[2023-02-01 08:32:54,344 INFO] Saved 92 lines into exp_mbart_doc/iwslt.segmented.en-vi/test.en
+[2023-02-01 08:32:54,347 INFO] Saved 92 lines into exp_mbart_doc/iwslt.segmented.en-vi/test.vi
+[2023-02-01 08:32:54,357 INFO] Processed 7 documents of valid with a max_len of 512.
+[2023-02-01 08:32:54,358 INFO] Saved 53 lines into exp_mbart_doc/iwslt.segmented.en-vi/valid.en
+[2023-02-01 08:32:54,359 INFO] Saved 53 lines into exp_mbart_doc/iwslt.segmented.en-vi/valid.vi
+[2023-02-01 08:32:54,713 WARNING] Target doc has too long segment: corpus=train, doc=84, sents=5, seg_len=556, max_len=512.
+[2023-02-01 08:32:54,789 WARNING] Source doc has too long segment: corpus=train, doc=140, sents=22, seg_len=690, max_len=512.
+[2023-02-01 08:32:54,789 WARNING] Target doc has too long segment: corpus=train, doc=140, sents=22, seg_len=908, max_len=512.
+[2023-02-01 08:32:55,695 WARNING] Source doc has too long segment: corpus=train, doc=816, sents=90, seg_len=599, max_len=512.
+[2023-02-01 08:32:55,695 WARNING] Target doc has too long segment: corpus=train, doc=816, sents=90, seg_len=629, max_len=512.
+[2023-02-01 08:32:55,915 WARNING] Source doc has too long segment: corpus=train, doc=977, sents=271, seg_len=548, max_len=512.
+[2023-02-01 08:32:55,916 WARNING] Target doc has too long segment: corpus=train, doc=977, sents=271, seg_len=642, max_len=512.
+[2023-02-01 08:32:55,951 WARNING] Source doc has too long segment: corpus=train, doc=1002, sents=7, seg_len=612, max_len=512.
+[2023-02-01 08:32:55,951 WARNING] Target doc has too long segment: corpus=train, doc=1002, sents=7, seg_len=530, max_len=512.
+[2023-02-01 08:32:55,954 WARNING] Source doc has too long segment: corpus=train, doc=1006, sents=5, seg_len=703, max_len=512.
+[2023-02-01 08:32:55,954 WARNING] Target doc has too long segment: corpus=train, doc=1006, sents=5, seg_len=671, max_len=512.
+[2023-02-01 08:32:55,965 WARNING] Source doc has too long segment: corpus=train, doc=1015, sents=164, seg_len=579, max_len=512.
+[2023-02-01 08:32:55,966 WARNING] Target doc has too long segment: corpus=train, doc=1015, sents=164, seg_len=653, max_len=512.
+[2023-02-01 08:32:56,174 INFO] Processed 1191 documents of train with a max_len of 512.
+[2023-02-01 08:32:56,302 INFO] Saved 8368 lines into exp_mbart_doc/iwslt.segmented.en-vi/train.en
+[2023-02-01 08:32:56,479 INFO] Saved 8368 lines into exp_mbart_doc/iwslt.segmented.en-vi/train.vi
